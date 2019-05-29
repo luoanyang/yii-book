@@ -39,3 +39,8 @@ default_authentication_plugin=mysql_native_password
 
 **必须新建一个账号，不然用之前的还是用不了，记得改 config/db.php配置**
 https://faceghost.com/article/515681
+
+
+## 效果
+![主页](demo1.png)
+![管理](demo2.png)

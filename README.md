@@ -19,7 +19,7 @@
 > compose install
 
 ## **3.启动服务**
-在项目更目录的命令行输入：
+在项目根目录的命令行输入：
 > php yii serve
 
 ## **4.打开浏览器**
@@ -37,8 +37,8 @@
 default_authentication_plugin=mysql_native_password
 ```
 
-**必须新建一个账号，不然用之前的还是用不了，记得改 config/db.php配置**
-https://faceghost.com/article/515681
+**必须新建一个账号，可以参考这个网址（https://faceghost.com/article/515681），不然用之前的还是用不了，记得改 config/db.php配置**
+
 
 
 ## 效果
